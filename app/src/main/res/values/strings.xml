@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="main">进入主界面</string>
+    <string name="welcome">欢迎来到音乐的世界</string>
+</resources>
